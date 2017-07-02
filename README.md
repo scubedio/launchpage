@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to SCUBEDIO
 
-You can use the [editor on GitHub](https://github.com/scubedio/launchpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I used the [editor on GitHub](https://github.com/scubedio/launchpage/edit/master/README.md) to edit and preview the content you see on the website in Markdown files (no idea what that means).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit (add stuff?) to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
